@@ -5,7 +5,7 @@
 
 🌍 I'm based in **Mohali, India**  
 ⚛️ I love working with **MERN stack** and solving problems through **programming**  
-🚀 I've explored CSS libraries like **Chakra UI** and **styled-components**  
+🚀 I've explored CSS libraries like **Tailwind CSS** and **styled-components**  
 📧 Reach me at: [95aryankr@gmail.com](mailto:95aryankr@gmail.com)  
 🌐 Portfolio: [joyful-pavlova-a3df8a.netlify.app](https://joyful-pavlova-a3df8a.netlify.app/)  
 🔗 LinkedIn: [linkedin.com/in/aryan-kumar-59674b275](https://www.linkedin.com/in/aryan-kumar-59674b275/)
